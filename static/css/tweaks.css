@@ -114,3 +114,8 @@ li.list-inline-item:hover {
   margin-bottom: 70px;
   font-weight: bold;
 }
+
+.image-section img {
+  margin-left: 40px;
+
+}

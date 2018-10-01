@@ -1,5 +1,5 @@
 theme = "hugo-resume"
-baseURL = "https://tender-panini-08986f.netlify.com/"
+baseURL = "https://www.russellrosario.com/"
 languageCode = "en-us"
 title = "Russell Rosario"
 
@@ -11,7 +11,7 @@ title = "Russell Rosario"
     contactNote = "Dev Tools Engineer" #used in QR code only
     profileImage = "img/profile.jpg"
     email = "rosariorussell@gmail.com"
-    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    description = "Senior level accountant and software engineer experienced with organizing teams, managing budgets, financial reporting, process automation, data analytics, and JavaScript/Node solutions on AWS cloud infrastructure."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
@@ -47,7 +47,7 @@ title = "Russell Rosario"
     link = "https://angel.co/rosariorussell"
 
 [params.google.analytics]
-    trackerID = "XX-123446-01"
+    trackerID = "UA-93956182-1"
 
 [outputs] #only required for search
     home = ["HTML", "JSON"]

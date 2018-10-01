@@ -1,0 +1,25 @@
+{{ define "main" }}
+<section class="resume-section p-3 p-lg-5 d-flex d-column" id="{{ replace .Title " " "-" }}">
+  <div class="row">
+      <div class="col-md-6">
+          <h1 class="mb-0"><span class="text-primary">{{ .Title }}</span></h1>
+
+          {{ if not .Params.link }}
+          <p>
+            <strong>{{ .Params.date | dateFormat "January 2006"  }}</strong>
+          </p>
+          {{ end }}
+
+          <p>
+            {{ .Content }}
+          </p>
+          <p>{{ with .Params.link }}<p>Project link: <a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
+
+        </div>
+        <div class="col-md-6 image-section">
+          <img src="{{ .Params.image }}" alt=""/>
+        </div>
+  </div>
+
+</section>
+{{ end }}

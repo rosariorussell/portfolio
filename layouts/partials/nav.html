@@ -34,11 +34,7 @@
           </li>
       {{ end }}
 
-  {{ if .Site.Params.showPortfolio }}
-  <li class="nav-item">
-    <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
-  </li>
-{{ end }}
+
       {{ if .Site.Params.showExperience }}
           <li class="nav-item">
             <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
@@ -49,6 +45,11 @@
             <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
           </li>
       {{ end }}
+      {{ if .Site.Params.showPortfolio }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
+      </li>
+    {{ end }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="https://s3.amazonaws.com/rosariorussell/Russell_Rosario_Resume.pdf" target="_blank">Resume</a>
       </li>
