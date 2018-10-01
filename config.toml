@@ -1,5 +1,5 @@
 theme = "hugo-resume"
-baseURL = ""
+baseURL = "https://tender-panini-08986f.netlify.com/"
 languageCode = "en-us"
 title = "Russell Rosario"
 

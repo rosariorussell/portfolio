@@ -1,20 +1,31 @@
 [
     {
-        "role":"Boss man",
-        "company":"Current Company LTD",
-        "summary":"Led in development of fast paced software teams.",
-        "range":"February 2016 - Present"
+        "role":"Javascript/Node Teaching Assistant",
+        "company":"Trilogy Education",
+        "summary":"Selected for teaching assistant role after graduating from the bootcamp's previous cohort",
+        "range":"2018 - Present"
     },
     {
-        "role":"Developer",
-        "company":"Current Company LTD",
-        "summary":"Expedited the synergies of collaborative agile tooling.",
-        "range":"March 2014 - February 2016"
+        "role":"Financial Controller",
+        "company":"Ingham Retirement Group",
+        "summary":"Managed accounting, portfolio management, and trading departments for over $2 billion managed assets",
+        "range":"2012 - 2018"
     },
     {
-        "role":"Developer",
-        "company":"Previous Company Inc.",
-        "summary":"Implemented continuous devops pipelines automationing",
-        "range":"February 2013 - March 2014"
+        "role":"Co-Founder",
+        "company":"Diimension LLC",
+        "summary":"Directed finance and marketing operations for a small business specializing in web and app development",
+        "range":"2014 - 2015"
+    },
+    {
+        "role":"Social Media Consultant",
+        "summary":"Designed viral marketing campaigns primarily through Reddit to generate organic traffic",
+        "range":"2010 - 2012"
+    },
+    {
+        "role":"Data Analyst",
+        "company":"Northern Capital Insurance",
+        "summary":"Data scrubbing/wrangling, SQL developer, Salesforce Report Builder",
+        "range":" 2008 - 2010"
     }
 ]

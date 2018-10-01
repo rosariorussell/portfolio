@@ -2,14 +2,13 @@
     {
         "school":"University of Miami",
         "degree":"Certificate, Full Stack Web Development",
-        "notes": "• Curriculum centered around JavaScript and Node development",
-        "notes2": "• After graduation, the bootcamp hired me as a teaching assistant for the next cohort",
+        "notes": "Curriculum centered around JavaScript and Node development",
         "range":"2018"
     },
     {
         "school":"University of Miami",
         "degree":"Master's Degree, Accounting (4.0 GPA)",
-        "notes":"• Courses: Taxation, Accounting information systems, Financial Statement Analysis, Auditing and compliance, Cost accounting, Advanced Accounting and Financial Reporting",
+        "notes":"Courses: Taxation, Accounting information systems, Financial Statement Analysis, Auditing and compliance, Cost accounting, Advanced Accounting and Financial Reporting",
         "range":"2015 - 2016"
     },
     {
