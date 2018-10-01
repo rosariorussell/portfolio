@@ -1,0 +1,22 @@
+[
+  {
+      "grouping":"Business Operations",
+      "skills":[ "Accounting", "Financial Reporting", "Data Analytics", "Social media marketing"]
+  },
+  {
+    "grouping":"DevOps",
+    "skills":[ "AWS", "Heroku", "Serverless", "Git", "Docker", "Travis"]
+},
+{
+    "grouping":"Frameworks & Libraries",
+    "skills":[ "Angular", "React", "Bootstrap", "jQuery", "Mocha"]
+},
+  {
+      "grouping":"Languages",
+    "skills":[ "JavaScript", "NodeJS", "Python", "CSS3", "MySQL", "MongoDB"]
+  },
+  {
+      "grouping":"Artificial Intelligence",
+      "skills":[ "Tensorflow", "Ethereum", "Chatbots", "Web scraping"]
+  }
+]

@@ -1,0 +1,53 @@
+theme = "hugo-resume"
+baseURL = ""
+languageCode = "en-us"
+title = "Russell Rosario"
+
+[params]
+    firstName = "Russell"
+    lastName = "Rosario"
+    address = "Miami, FL"
+    phone = "1-305-803-8555"
+    contactNote = "Dev Tools Engineer" #used in QR code only
+    profileImage = "img/profile.jpg"
+    email = "rosariorussell@gmail.com"
+    description = "Software Platform Engineer with experience leveraging agile, DevOps, and CI/CD to manage large scale distributed platforms both on prem and in public cloud."
+    favicon = "images/favicon.ico"
+
+    # what sections to display.  Setting to false disables navigation and section.
+    showSkills = true
+    showProjects = false
+    showOpenSource = false
+    showPublications = false
+    showBlogs = true
+    showPortfolio = true
+    showExperience = true
+    showEducation = true
+
+		showQr = false
+
+    # do you want to show git hash on page footer and link to repo? Add commit URl for repo here.
+    gitCommitPrefix = "https://github.com/YOURNAME/REPONAME/commit/"
+
+
+[[params.handles]]
+    name = "LinkedIn"
+    link = "https://www.linkedin.com/in/rosariorussell/"
+
+[[params.handles]]
+    name = "GitHub"
+    link = "https://github.com/rosariorussell/"
+
+[[params.handles]]
+    name = "Meetup"
+    link = "https://www.meetup.com/members/183050436/"
+
+[[params.handles]]
+    name = "Angellist"
+    link = "https://angel.co/rosariorussell"
+
+[params.google.analytics]
+    trackerID = "XX-123446-01"
+
+[outputs] #only required for search
+    home = ["HTML", "JSON"]
