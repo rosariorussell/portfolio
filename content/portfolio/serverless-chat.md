@@ -5,6 +5,7 @@ featured: true
 description: "Serverless chat app using AWS Lambda and API Gateway"
 image: "/img/portfolio/serverless-chat.png"
 link: "http://www.topcofounder.com"
+code: "https://github.com/rosariorussell/serverless-chat-app"
 weight: 500
 
 ---

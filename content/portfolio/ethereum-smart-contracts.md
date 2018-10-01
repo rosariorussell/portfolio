@@ -2,14 +2,15 @@
 title: "Ethereum Smart Contracts"
 date: 2016-11-08
 featured: true
-description: "Ethereum smart contracts requiring 50% approval of investors to move funds"
+description: "A decentralized app that requires 50% approval before investor funds can be moved"
 image: "/img/portfolio/ethereum.png"
 link: "http://ethereum-smart-contract.herokuapp.com/"
+code: "https://github.com/rosariorussell/ethereum-smart-contract"
 weight: 500
 
 ---
 
-Ethereum smart contracts requiring 50% approval of investors to move funds
+A decentralized app that requires 50% approval before investor funds can be moved
 
-- Written in Solidity for use on the Ethereum blockchain
-- Uses MetaMask on the Rinkeby test network
+- Written in Solidity and deployed on the Rinkeby test network
+- Requires MetaMask plugin
