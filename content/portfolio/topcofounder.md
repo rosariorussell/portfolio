@@ -1,8 +1,8 @@
 ---
-title: "TopCofounder"
+title: "Top Cofounder"
 date: 2016-11-08
 featured: true
-description: "Entrepreneur matchmaker service"
+description: "Entrepreneur matchmaking service"
 image: "/img/portfolio/topcofounder.png"
 link: "http://www.topcofounder.com"
 weight: 100

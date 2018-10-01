@@ -115,7 +115,11 @@ li.list-inline-item:hover {
   font-weight: bold;
 }
 
-.image-section img {
-  margin-left: 40px;
+.single-page-content {
+  max-width: 90%;
+  padding: 1em;
+}
 
+.resume-section img {
+  margin-top: 2em;
 }
