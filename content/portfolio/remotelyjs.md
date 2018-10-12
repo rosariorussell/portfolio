@@ -12,7 +12,9 @@ weight: 500
 
 Find remote jobs for JavaScript developers
 
+*APP IS CURRENTLY ON HEROKU SLEEPER DYNO AND TAKES 15 SECONDS TO BOOT*
+
 - Full stack app using MERN stack - MongoDB, Express, React, Node
-- Uses Cheerio scraper for finding job postings on Indeed
+- Uses Cheerio scraper for finding matching Indeed job postings (currently depricated)
 - Uses JWT and bcrypt for authentication
 - Final project for University of Miami's coding bootcamp
