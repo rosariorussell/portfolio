@@ -1,7 +1,7 @@
 [
   {
       "grouping":"Business Operations",
-      "skills":[ "Accounting", "Financial Reporting", "Data Analytics", "Social media marketing"]
+      "skills":[ "Accounting", "Data Analytics", "Process automation", "Social media marketing"]
   },
   {
     "grouping":"DevOps",
@@ -14,9 +14,5 @@
   {
       "grouping":"Languages",
     "skills":[ "JavaScript", "NodeJS", "Python", "CSS3", "MySQL", "MongoDB"]
-  },
-  {
-      "grouping":"Artificial Intelligence",
-      "skills":[ "Tensorflow", "Blockchain", "Chatbots", "Web scraping"]
   }
 ]
