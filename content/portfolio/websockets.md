@@ -1,7 +1,7 @@
 ---
 title: "Websocket Chatrooms"
 date: 2016-11-08
-featured: true
+featured: false
 description: "Join private chatrooms by common interest"
 image: "/img/portfolio/websocket.png"
 link: "http://socketio-chatroom-app.herokuapp.com/"

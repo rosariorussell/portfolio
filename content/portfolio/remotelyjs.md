@@ -1,7 +1,7 @@
 ---
 title: "RemotelyJS"
-date: 2016-11-08
-featured: true
+date: 2018-07-14
+featured: false
 description: "Find remote jobs for JavaScript developers"
 image: "/img/portfolio/remotelyjs.png"
 link: "http://remotelyjs.herokuapp.com/"

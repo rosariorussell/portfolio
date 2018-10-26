@@ -13,8 +13,9 @@
           <p>
             {{ .Content }}
           </p>
-          <p>{{ with .Params.link }}<p>Project link: <a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
           <p>{{ with .Params.code }}<p>Project code: <a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
+          <br/>
+          <p>{{ with .Params.link }}<p><a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
           <p>
             <a href="{{ .Params.link }}"><img src="{{ .Params.image }}" alt=""/></a>
           </p>

@@ -1,7 +1,7 @@
 ---
 title: "Ethereum Smart Contracts"
 date: 2016-11-08
-featured: true
+featured: false
 description: "A decentralized app that requires 50% approval before investor funds can be moved"
 image: "/img/portfolio/ethereum.png"
 link: "http://ethereum-smart-contract.herokuapp.com/"

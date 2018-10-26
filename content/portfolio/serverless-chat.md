@@ -1,7 +1,7 @@
 ---
 title: "Serverless Chat"
 date: 2016-11-08
-featured: true
+featured: flase
 description: "Serverless chat app using AWS Lambda and API Gateway"
 image: "/img/portfolio/serverless-chat.png"
 link: "http://www.topcofounder.com"

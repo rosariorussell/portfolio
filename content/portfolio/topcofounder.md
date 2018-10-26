@@ -1,11 +1,10 @@
 ---
-title: "Top Cofounder"
-date: 2016-11-08
+title: "TopCofounder"
+date: 2018-10-25
 featured: true
 description: "Entrepreneur matchmaking service"
 image: "/img/portfolio/topcofounder.png"
 link: "http://www.topcofounder.com"
-code: "https://github.com/rosariorussell/TopCofounder"
 weight: 100
 ---
 

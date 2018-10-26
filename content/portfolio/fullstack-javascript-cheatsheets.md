@@ -1,6 +1,6 @@
 ---
 title: "Full Stack JavaScript Cheatsheets"
-date: 2016-11-08
+date: 2018-07-20
 featured: true
 description: "The go-to reference for junior developers learning JavaScript development"
 image: "/img/portfolio/fullstack.png"
