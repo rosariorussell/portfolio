@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Senior level accountant and software engineer experienced with organizing teams, managing budgets, financial reporting, process automation, data analytics, and JavaScript/Node solutions on AWS cloud infrastructure.</p>
+<p>Senior level accountant experienced with financial reporting and tax strategy. Full Stack JavaScript engineer on AWS cloud infrastructure.</p>
