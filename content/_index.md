@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Senior level accountant experienced with financial reporting and tax strategy. Full Stack JavaScript engineer on AWS cloud infrastructure.</p>
+<p>In my opinion, the most important skills to have for operating a successful business (excluding sales) are software engineering and accounting. So I learned both. I am a full stack developer using JavaScript front-end frameworks on AWS cloud infrastructure (Node.js). As an accountant, I have significant experience with financial reporting and tax strategy.</p>
