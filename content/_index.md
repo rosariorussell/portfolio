@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Accountant experienced with financial reporting and tax strategy. Rull stack developer using AWS cloud infrastructure.</p>
+<p>Accountant experienced with financial reporting and tax strategy. Full stack developer using AWS cloud infrastructure.</p>
