@@ -1,18 +1,47 @@
 [
   {
-      "grouping":"Business Operations",
-      "skills":[ "Accounting", "Data Analytics", "Process automation", "Social media marketing"]
+    "grouping": "Business Operations",
+    "skills": [
+      "Financial Reporting",
+      "Tax strategy",
+      "Machine Learning"
+    ]
   },
   {
-    "grouping":"DevOps",
-    "skills":[ "AWS", "Heroku", "Serverless", "Git", "Docker", "Travis"]
-},
-{
-    "grouping":"Frameworks & Libraries",
-    "skills":[ "Angular", "React", "Bootstrap", "jQuery", "Mocha"]
-},
+    "grouping": "Languages",
+    "skills": [
+      "JavaScript",
+      "NodeJS",
+      "Python"
+    ]
+  },
   {
-      "grouping":"Languages",
-    "skills":[ "JavaScript", "NodeJS", "Python", "CSS3", "MySQL", "MongoDB"]
+    "grouping": "DevOps",
+    "skills": [
+      "AWS",
+      "Heroku",
+      "Serverless",
+      "Git",
+      "Docker",
+      "Travis"
+    ]
+  },
+  {
+    "grouping": "Frameworks & Libraries",
+    "skills": [
+      "Angular",
+      "React",
+      "Bootstrap",
+      "jQuery"
+    ]
+  },
+  {
+    "grouping": "Databases",
+    "skills": [
+      "MySQL",
+      "MongoDB",
+      "Elasticsearch",
+      "Blockchain"
+    ]
   }
 ]
