@@ -1,7 +1,7 @@
 theme = "hugo-resume"
 baseURL = "https://www.russellrosario.com/"
 languageCode = "en-us"
-title = "Russell Rosario"
+title = "Russell Rosario - Accountant & Developer"
 
 [params]
     firstName = "Russell"
