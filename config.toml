@@ -39,12 +39,8 @@ title = "Russell Rosario - Accountant & Developer"
     link = "https://github.com/rosariorussell/"
 
 [[params.handles]]
-    name = "Meetup"
-    link = "https://www.meetup.com/members/183050436/"
-
-[[params.handles]]
-    name = "Angellist"
-    link = "https://angel.co/rosariorussell"
+    name = "Twitter"
+    link = "https://twitter.com/russellrosario"
 
 [params.google.analytics]
     trackerID = "UA-93956182-1"
