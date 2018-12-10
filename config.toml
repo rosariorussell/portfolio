@@ -11,7 +11,7 @@ title = "Russell Rosario - Accountant & Developer"
     contactNote = "Dev Tools Engineer" #used in QR code only
     profileImage = "img/profile.jpg"
     email = "rosariorussell@gmail.com"
-    description = "Senior level accountant and software engineer experienced with organizing teams, managing budgets, financial reporting, process automation, data analytics, and JavaScript/Node solutions on AWS cloud infrastructure."
+    description = "Senior accountant with expertise in financial reporting and tax strategy. Full stack developer using JavaScript and Python on AWS infrastructure."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
