@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Senior accountant with expertise in financial reporting and tax strategy. Full stack developer using JavaScript and Python on AWS infrastructure.</p>
+<p>Senior accountant experienced with financial reporting, accounting systems, and budgeting. Full stack web developer using JavaScript and Node.js on AWS infrastructure. Data and statistical analysis using Python.</p>
