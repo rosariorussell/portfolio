@@ -1,8 +1,8 @@
 [
     {
-        "role":"Javascript Teaching Assistant",
-        "company":"Trilogy Education",
-        "summary":"Selected for teaching assistant role after graduating from the bootcamp's previous cohort",
+        "role":"Web Development Teaching Assistant",
+        "company":"University of Miami",
+        "summary":"Recommended for teaching assistant position after graduating from the bootcamp's previous cohort",
         "range":"2018 - Present"
     },
     {
@@ -12,12 +12,6 @@
         "range":"2012 - 2018"
     },
     {
-        "role":"CFO",
-        "company":"Diimension LLC",
-        "summary":"Established subscription revenue model and managed cash flows for a five member startup specializing in web/app development",
-        "range":"2014 - 2015"
-    },
-    {
         "role":"Social Media Consultant",
         "summary":"Designed viral marketing campaigns primarily through Reddit to generate organic traffic",
         "range":"2010 - 2012"
@@ -25,7 +19,7 @@
     {
         "role":"Data Analyst",
         "company":"Northern Capital Insurance",
-        "summary":"Data scrubbing/wrangling, SQL developer, Salesforce Report Builder",
+        "summary":"SQL developer, Salesforce Report Builder, Excel VBA macros",
         "range":" 2008 - 2010"
     }
 ]
