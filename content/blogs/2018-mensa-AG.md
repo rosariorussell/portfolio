@@ -1,13 +1,13 @@
 ---
-title: "Mensa Annual Gathering"
+title: "Mensa"
 date: 2018-07-04
 featured: false
-description: "I met a look of quirky people and super geniuses at this year's AG"
+description: "My involvement and experience with Mensa, the High IQ society"
 image: "/img/blog/mensaAG.JPG"
 ---
 
 
-One day last year, I wanted to test my IQ. I had previously taken the bogus online tests but I wanted to see how I would with an official test. I found an organization called Mensa which proctors tests across the country. Upon receiving my results a week later, they also offered admission into their "secret group" in exchange for membership fees. Mensa calls itself the high IQ society so I was quite curious to see what goes on in these secret "Bilderberg" type meetings. Also, their Annual Gathering would be taking place the following month in South Florida, my backyard.
+One day last year, I wanted to test my IQ. I had previously taken the bogus online tests but I wanted to see how I would with an official test. I found an organization called Mensa which proctors tests across the country. Upon receiving my results a week later, they also offered admission into their exclusive group in exchange for membership fees. Mensa calls itself the high IQ society so I was quite curious to see what goes on in these secret "Bilderberg" type meetings. Also, their Annual Gathering would be taking place the following month in South Florida, my backyard.
 
 The AG usually has close to 2000 members gathering from around the country. My first AG in 2017 turned out to be a lot of fun. I really enjoyed being around a bunch of quirky and strange geniuses. There is also a convention center size game room with hundreds of different board games open 24 hours. I made a lot of friends.
 
