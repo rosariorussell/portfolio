@@ -1,6 +1,6 @@
 ---
 title: "My dive into Miami's startup scene"
-date: 2018-09-23
+date: 2018-11-30
 featured: true
 description: "A summary of my time with Kitchen Concepts & Travelastic"
 image: "/img/blog/startupweekend.jpg"
