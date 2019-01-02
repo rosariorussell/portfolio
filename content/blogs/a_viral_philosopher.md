@@ -1,7 +1,7 @@
 ---
 title: "A viral philosopher"
 date: 2018-10-30
-featured: true
+featured: false
 description: "Following in the footsteps of Ayn Rand, Nietzsche, and Bruce Lee"
 image: "/img/blog/htngaf.jpg"
 ---

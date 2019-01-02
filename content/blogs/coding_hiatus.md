@@ -2,14 +2,14 @@
 title: "10 month coding hiatus"
 date: 2018-12-01
 featured: true
-description: "My journey from novice to developer."
+description: "My journey from novice to full stack developer."
 image: "/img/blog/matrix.jpg"
 ---
 
 
 I often get asked about my decision to switch careers from accountant to developer. I didn't switch. Even before I started graduate school for accounting, I knew that software engineering is a requirement for most jobs of the future. So after graduating, I began a bootcamp at the University of Miami. I left my job and began a daily routine of coding for 10+ hrs/day. It was not the best thing for my physical health, but I knew it was only temporary 😂.
 
-The bootcamp provided me with excellent guidance that I needed. Along the way, I created JavaScripter.co to aggregate diagrams, snippets, and other useful tools for junior developers. The repository for the site showed up as trending on Github 😲. After graduation, the bootcamp hired me to be a teaching assistant for the following cohort.
+The bootcamp provided me with excellent guidance that I needed. Along the way, I created JavaScripter.co to serialize my learning process. The repository for the site showed up as trending on Github 😲. After graduation, the bootcamp hired me to be a teaching assistant for the following cohort. I will use JavaScripter as a teaching tool for my students.
 
 <center><img src="/img/blog/bootcamp.jpeg" width="500px"></center>
 

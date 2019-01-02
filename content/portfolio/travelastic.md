@@ -1,11 +1,11 @@
 ---
 title: "Travelastic"
 date: 2018-09-24
-featured: true
+featured: false
 description: "Complete software solution for tour operators and travel agents"
 image: "/img/portfolio/travelastic.png"
 link: "http://www.travelastic.co/"
-weight: 200
+weight: 500
 
 ---
 
