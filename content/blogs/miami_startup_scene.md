@@ -1,13 +1,13 @@
 ---
-title: "My dive into Miami's startup scene"
+title: "Diving into Miami's startup scene"
 date: 2018-11-30
 featured: true
-description: "A summary of my time with Kitchen Concepts & Travelastic"
+description: "A summary of my time with Kitchen Concepts & Travelastic."
 image: "/img/blog/startupweekend.jpg"
 ---
 
 
-Since April, I had been coding nonstop and I knew I was going to burn out. After taking a cruise from Tampa to Cozumel, I was ready to get back to work. Over the previous 5 months, I spent most of my time taking Udemy courses and creating Github repositories that no one would ever see. Now it was time to start working on real projects in the real world. 
+Since April, I had been coding nonstop and I knew I was going to burn out. After taking a cruise from Tampa to Cozumel, I was ready to get back to work. Over the previous 5 months, I spent most of my time taking Udemy courses and creating Github repositories that no one would ever see. Now it was time to start working on real projects in the real world.
 
 I attended an event called "Startup Weekend". Startup Weekend is an event hosted in cities around the world allowing entrepreneurs to come together, join teams, and create a business plan within 54 hours. On Sunday, the teams would pitch their idea and a winner would be announced. I attended Miami's first Startup Weekend 6 years ago, and joined a team that created "FlyBy", a geolocation app allowing for networking within airports while waiting for flights. Our idea ended up winning and the business was even was accepted into Venture Hive accelerator's first cohort. Unfortunately, the team disbanded because many of them already had established careers and did not have the time to devote to a side project. Overall, I enjoyed the experience and learned a lot.
 

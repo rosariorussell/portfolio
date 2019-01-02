@@ -1,29 +1,25 @@
 {{ define "main" }}
 <section class="resume-section p-3 p-lg-5 d-flex d-column" id="{{ replace .Title " " "-" }}">
 
-      <div class="single-page-content">
-          <h1 class="mb-0"><span class="text-primary">{{ .Title }}</span></h1>
+  <div class="single-page-content">
 
-          {{ if not .Params.link }}
-          <p>
-            <strong>{{ .Params.date | dateFormat "January 2006"  }}</strong>
-          </p>
-          {{ end }}
+    <h1 class="mb-0"><span class="text-primary">{{ .Title }}</span></h1>
 
-          <p>
-            {{ .Content }}
-          </p>
-          <p>{{ with .Params.code }}<p>Project code: <a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
-          <br/>
-          <p>{{ with .Params.link }}<p><a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
-          <p>
-            <a href="{{ .Params.link }}"><img src="{{ .Params.image }}" alt=""/></a>
-          </p>
+    {{ if not .Params.link }}
+    <p><strong>{{ .Params.date | dateFormat "January 2006" }}</strong></p>
+    {{ end }}
 
+    <p>
+      <center><a href="{{ .Params.link }}"><img src="{{ .Params.image }}" alt="" style="max-width:50%" /></a></center>
+    </p>
 
-        </div>
+    <p>{{ with .Params.link }}<p><a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
 
+    <p>{{ with .Params.code }}<p>Project code: <a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
 
+    <p>{{ .Content }}</p>
+
+  </div>
 
 </section>
 {{ end }}
