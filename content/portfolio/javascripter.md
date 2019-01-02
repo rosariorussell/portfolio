@@ -5,7 +5,7 @@ featured: true
 description: "JavaScripter is a compilation of notes during my journey from novice to full stack developer."
 image: "/img/portfolio/javascripter.png"
 link: "http://www.javascripter.co"
-code: "https://github.com/rosariorussell/Full-Stack-JavaScript-Cheatsheets"
+code: "https://github.com/rosariorussell/JavaScripter"
 weight: 200
 
 ---
@@ -47,5 +47,4 @@ JavaScripter is a compilation of notes during my journey from novice to full sta
   - Elasticsearch
   - Machine Learning
   - Web scraping
-  - GraphQL
   - Blockchain
