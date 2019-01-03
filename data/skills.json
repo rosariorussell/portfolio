@@ -2,9 +2,9 @@
   {
     "grouping": "Business Operations",
     "skills": [
-      "Financial Reporting",
-      "Tax strategy",
-      "Machine Learning"
+      "Financial reporting",
+      "Accounting systems",
+      "Data analysis"
     ]
   },
   {
@@ -12,7 +12,8 @@
     "skills": [
       "JavaScript",
       "NodeJS",
-      "Python"
+      "Python",
+      "TypeScript"
     ]
   },
   {
