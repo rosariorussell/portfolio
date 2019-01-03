@@ -11,11 +11,14 @@ I often get asked about my decision to switch careers from accountant to develop
 
 The bootcamp provided me with excellent guidance that I needed. Along the way, I created JavaScripter.co to serialize my learning process. The repository for the site showed up as trending on Github 😲. After graduation, the bootcamp hired me to be a teaching assistant for the following cohort. I will use JavaScripter as a teaching tool for my students.
 
-<center><img src="/img/blog/bootcamp.jpeg" width="500px"></center>
-
+<div style="text-align:center">
+  <img src="/img/blog/bootcamp.jpeg" width="500px">
+</div>
 I wanted to apply my new skills in the real world, outside of an academic setting. I organized a Meetup group for blockchain developers. I also attended many events in the Miami startup scene. One of these events was Startup Weekend, an event which my team won 1st place. Our idea was Kitchen Concepts - Coworking spaces for restaurants.
 
-<center><img src="/img/blog/startupweekend.jpg" width="500px"></center>
+<div style="text-align:center">
+<img src="/img/blog/startupweekend.jpg" width="500px">
+</div>
 
 During Startup Weekend, I was introduced to Travelastic, a startup that provides a complete software solution for tour operators. I later joined Travelastic and spent a lot my time at a desk in Miami's best coworking space, the CIC. The environment was very conducive to entrepreneurship and they hosted many events catered to startups.
 

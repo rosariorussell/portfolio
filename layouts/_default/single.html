@@ -9,8 +9,8 @@
     <p><strong>{{ .Params.date | dateFormat "January 2006" }}</strong></p>
     {{ end }}
 
-    <p>
-      <center><a href="{{ .Params.link }}"><img src="{{ .Params.image }}" alt="" style="max-width:50%" /></a></center>
+    <p style="text-align:center">
+      <a href="{{ .Params.link }}"><img src="{{ .Params.image }}" alt="" style="max-width:50%" /></a>
     </p>
 
     <p>{{ with .Params.link }}<p><a href="{{ . }}">{{ . }}</a></p>{{ end }}</p>
