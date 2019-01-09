@@ -1,25 +1,25 @@
 [
     {
-        "role":"Web Development Teaching Assistant",
-        "company":"University of Miami",
-        "summary":"Recommended for teaching assistant position after graduating from the bootcamp's previous cohort",
-        "range":"2018 - Present"
+        "role": "Web Development Teaching Assistant",
+        "company": "University of Miami",
+        "summary": "Recommended for teaching assistant position after graduating from the bootcamp's previous cohort",
+        "range": "2019 - Present"
     },
     {
-        "role":"Controller",
-        "company":"Ingham Retirement Group",
-        "summary":"Managed accounting, portfolio management, and trading departments for over $2 billion managed assets",
-        "range":"2012 - 2018"
+        "role": "Controller",
+        "company": "Ingham Retirement Group",
+        "summary": "Managed accounting, portfolio management, and trading departments for over $2 billion managed assets",
+        "range": "2012 - 2018"
     },
     {
-        "role":"Social Media Consultant",
-        "summary":"Designed viral marketing campaigns primarily through Reddit to generate organic traffic",
-        "range":"2010 - 2012"
+        "role": "Social Media Consultant",
+        "summary": "Designed viral marketing campaigns primarily through Reddit to generate organic traffic",
+        "range": "2010 - 2012"
     },
     {
-        "role":"Data Analyst",
-        "company":"Northern Capital Insurance",
-        "summary":"SQL developer, Salesforce Report Builder, Excel VBA macros",
-        "range":" 2008 - 2010"
+        "role": "Data Analyst",
+        "company": "Northern Capital Insurance",
+        "summary": "SQL developer, Salesforce Report Builder, Excel VBA macros",
+        "range": " 2008 - 2010"
     }
 ]
