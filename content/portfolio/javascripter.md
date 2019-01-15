@@ -13,8 +13,8 @@ weight: 200
 JavaScripter is a compilation of notes during my journey from novice to full stack JavaScript developer by Russell Rosario.
 
 - Basics
-- Front-end
-- Back-end
+- Languages
+- Frontend
+- Backend
 - DevOps
-- Scaling
-- Applications
+- Latest
