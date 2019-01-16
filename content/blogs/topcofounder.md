@@ -2,7 +2,7 @@
 title: "TopCofounder has launched!"
 date: 2019-01-01
 featured: true
-description: "In partnership with Mensa, the high IQ society, TopCofounder matches you with elite entrepreneurs having the domain expertise that your business needs."
+description: "TopCofounder - Connect with elite entrepreneurs from around the world. An official SIG of Mensa, the high IQ society."
 image: "/img/blog/topcofounder.png"
 ---
 
@@ -12,4 +12,4 @@ In 2017 I was invited to join Mensa, the high IQ society. My immediate thought w
 
 Fortunately, Mensa allows its members to organize "Special Interest Groups". I took the initiative to formalize a networking group and within a few weeks gathered over 50 members to join. A few months later, I began working on the website and today I launch <b><a href="http://www.topcofounder.com">TopCofounder</a></b>!
 
-In partnership with Mensa, the high IQ society, TopCofounder matches you with elite entrepreneurs having the domain expertise that your business needs. Although created for Mensa and International Mensa, the group is open to the public through application. In addition, the public is free to submit business proposals and hire/work with someone from the group.
+TopCofounder - Connect with elite entrepreneurs from around the world having the domain expertise that your business needs. Although created for Mensa, the high IQ society, the group is open to the public through application. In addition, the public is free to submit business proposals and hire/work with someone from the group.
