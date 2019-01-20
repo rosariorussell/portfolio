@@ -1,6 +1,6 @@
 ---
 title: "The North American Bitcoin Conference"
-date: 2019-01-01
+date: 2019-02-01
 featured: false
 draft: true
 description: "All the interesting projects in the crypto world that I learned about during my first time attending the conference"
