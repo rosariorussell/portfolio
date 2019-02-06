@@ -9,4 +9,4 @@ outputs:
 - rss
 - json
 ---
-<p>Senior accountant experienced with financial reporting, accounting systems, and budgeting. Full stack web developer using JavaScript and Node.js on AWS infrastructure. Data and statistical analysis using Python.</p>
+<p>Senior accountant experienced with financial reporting, accounting systems, budgeting, and forecasting. Full stack web developer using React, Node.js, and serverless AWS infrastructure. Currently working with the startup studio business model, an iterative, agile, and replicable approach to company building.</p>
