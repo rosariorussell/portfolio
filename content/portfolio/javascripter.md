@@ -2,19 +2,20 @@
 title: "JavaScripter"
 date: 2018-07-20
 featured: true
-description: "A compilation of notes during my journey from novice to full stack JavaScript developer by Russell Rosario. Over 100 Github stars!"
-image: "/img/portfolio/javascripter.png"
+description: "JavaScripter is a compilation of notes during my journey from novice to full stack developer"
+image: "/img/portfolio/js.PNG"
 link: "http://www.javascripter.co"
-code: "https://github.com/rosariorussell/JavaScripter"
 weight: 200
 
 ---
 
-JavaScripter is a compilation of notes during my journey from novice to full stack JavaScript developer by Russell Rosario.
+JavaScripter is a compilation of notes during my journey from novice to full stack developer.
 
-- Basics
-- Languages
+- Computer Science Basics
+- Languages (JavaScript & Python)
 - Frontend
 - Backend
 - DevOps
-- Latest
+- Latest technologies
+
+<b>This project was initially for my own benefit until one day it started trending on Github! It now has over 115 stars!</b>

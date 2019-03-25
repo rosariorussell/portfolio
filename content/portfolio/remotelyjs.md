@@ -10,9 +10,9 @@ weight: 600
 
 ---
 
-Final project for coding bootcamp at University of Miami
-
 *APP IS CURRENTLY ON HEROKU SLEEPER DYNO AND TAKES 15 SECONDS TO BOOT*
 
 - Uses Cheerio scraper for finding matching Indeed job postings (currently depricated)
 - Uses JWT and bcrypt for authentication
+
+<b>This was my final project for the coding bootcamp at University of Miami.</b>

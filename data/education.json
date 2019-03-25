@@ -2,20 +2,22 @@
     {
         "school":"University of Miami",
         "degree":"Certificate, Full Stack Web Development",
-        "notes": "Curriculum centered around JavaScript and Node development",
+        "notes": "• Six month coding bootcamp focused on JavaScript, Node.js, and React",
+        "notes2": "• Upon graduation, I was hired as a teaching assistant for the following cohort",
         "range":"2018"
     },
     {
         "school":"University of Miami",
-        "degree":"Master's Degree, Accounting (4.0 GPA)",
-        "notes":"Courses: Taxation, Accounting information systems, Financial Statement Analysis, Auditing and compliance, Cost accounting, Advanced Accounting and Financial Reporting",
+        "degree":"Master's Degree, Accounting",
+        "notes":"• 4.0 GPA",
         "range":"2015 - 2016"
     },
     {
         "school":"University of Miami",
-        "degree":"Bachelor's Degree, Biology (3.8 GPA)",
-        "notes":"• Statistics teaching assistant and Biostatistics research assistant",
-        "notes2":"• National Merit & Bowman Foster Ashe Scholarships",
+        "degree":"Bachelor's Degree, Biology/Chemistry",
+        "notes":"• Graduated in 3 years cum laude",
+        "notes2":"• Statistics teaching assistant and Biostatistics research assistant",
+        "notes3":"• National Merit & Bowman Foster Ashe Scholarships",
         "range":"2005 - 2008"
     }
 ]
