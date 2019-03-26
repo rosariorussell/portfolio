@@ -17,7 +17,7 @@ outputs:
   <li>Senior accountant experienced with financial reporting, accounting systems, budgeting, and forecasting.</li>
   <li>Full stack web developer using React, Node.js, and cloud infrastructure (AWS & GCP).</li>
   <li>Open to opportunities that utilize both my business and technical expertise.</li>
-  <li>I'm currently building <a href="http://www.topcofounder.com/">TopCofounder</a>, a "startup as a service" business. Using a <a href="https://en.wikipedia.org/wiki/Startup_studio">startup factory model</a>, TopCofounder turns ideas into prototypes in weeks, validates them with paying customers, and attracts seed capital to scale operations.</li>
+  <li>I'm currently building <a href="http://www.topcofounder.com/">TopCofounder</a>, a "startup as a service" business. Using a startup factory model, TopCofounder turns ideas into prototypes in weeks, validates them with paying customers, and attracts seed capital to scale operations. Read more <a href="/blogs/startup_studio/">here</a>.</li>
 
 </ul>
 
