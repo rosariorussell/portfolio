@@ -14,6 +14,6 @@ Now, I am ready to work on TopCofounder full-time. Although still related to my 
 
 TopCofounder is a “startup as a service” business.
 
-Our process produces a portfolio of scalable companies using a startup factory model. We create and develop companies from internal ideas. These are usually in the areas of machine learning, big data, internet of things, and software as a service.
+Our process produces a portfolio of scalable companies using a startup factory model. We create and develop companies from the best ideas we come across. These are usually in the areas of machine learning, big data, internet of things, and software as a service.
 
 The first step is to produce a prototype within weeks. Once validated by paying customers, we attract seed capital to begin scaling operations. Finally, we recruit a CEO from within our selective pool of entrepreneurs (1 out of 50 applicants). The CEO will take over operations and TopCofounder will remain the majority stakeholder.
