@@ -5,7 +5,7 @@ featured: flase
 description: "Serverless chat app using AWS Lambda and API Gateway"
 image: "/img/portfolio/serverless-chat.png"
 link: "http://serverless-chat-app.s3-website-us-east-1.amazonaws.com/"
-code: "https://github.com/rosariorussell/serverless-chat-app"
+code: "https://github.com/russellrosario/serverless-chat-app"
 weight: 500
 
 ---

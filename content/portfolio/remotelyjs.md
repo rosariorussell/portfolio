@@ -5,7 +5,7 @@ featured: false
 description: "Full stack app using MongoDB, Express, React, and Node. Includes login system and a web scrapper for pulling remote JavaScript positions from job boards."
 image: "/img/portfolio/remotelyjs.png"
 link: "http://remotelyjs.herokuapp.com/"
-code: "https://github.com/rosariorussell/RemotelyJS"
+code: "https://github.com/russellrosario/RemotelyJS"
 weight: 600
 
 ---

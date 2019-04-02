@@ -5,7 +5,7 @@ featured: false
 description: "Join private chatrooms by common interest"
 image: "/img/portfolio/websocket.png"
 link: "http://socketio-chatroom-app.herokuapp.com/"
-code: "https://github.com/rosariorussell/websocket-socket-io-chatrooms"
+code: "https://github.com/russellrosario/websocket-socket-io-chatrooms"
 weight: 500
 
 ---

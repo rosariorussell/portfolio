@@ -2,10 +2,12 @@
   <a class="navbar-brand js-scroll-trigger" href="/">
     <span class="d-block d-lg-none">{{ .Site.Params.firstName }} {{ .Site.Params.lastName }}</span>
     <span class="d-none d-lg-block">
-      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ .Site.Params.profileImage | relURL }}" alt="">
+      <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="{{ .Site.Params.profileImage | relURL }}"
+        alt="">
     </span>
   </a>
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent"
+    aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
   <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -15,42 +17,43 @@
       </li>
 
       {{ if .Site.Params.showSkills }}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#skills">Skills</a>
+      </li>
       {{ end }}
 
       {{ if .Site.Params.showPortfolio }}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
+      </li>
       {{ end }}
 
       {{ if .Site.Params.showExperience }}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
+      </li>
       {{ end }}
 
       {{ if .Site.Params.showEducation }}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#education">Education</a>
+      </li>
       {{ end }}
 
       <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="https://s3.amazonaws.com/rosariorussell/Russell_Rosario_Resume.pdf" target="_blank">Resume</a>
+        <a class="nav-link js-scroll-trigger" href="https://s3.amazonaws.com/russellrosario/Russell_Rosario_Resume.pdf"
+          target="_blank">Resume</a>
       </li>
 
       {{ if .Site.Params.showBlogs }}
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="/#blogs">Blog</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#blogs">Blog</a>
+      </li>
       {{ end }}
 
-        <li class="nav-item">
-          <a class="nav-link js-scroll-trigger" href="mailto:rosariorussell@gmail.com" target="_blank">Contact Me</a>
-        </li>
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="mailto:contact@russellrosario.com" target="_blank">Contact Me</a>
+      </li>
 
     </ul>
   </div>

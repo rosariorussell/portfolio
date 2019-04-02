@@ -5,7 +5,7 @@ featured: false
 description: "A decentralized blockchain application that is similar to Kickstarter"
 image: "/img/portfolio/ethereum.png"
 link: "http://ethereum-smart-contract.herokuapp.com/"
-code: "https://github.com/rosariorussell/ethereum-smart-contract"
+code: "https://github.com/russellrosario/ethereum-smart-contract"
 weight: 500
 
 ---

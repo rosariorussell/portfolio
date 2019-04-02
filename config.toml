@@ -7,11 +7,11 @@ title = "Russell Rosario - Accountant & Developer"
     firstName = "Russell"
     lastName = "Rosario"
     address = "Miami, FL"
-    phone = "1-305-803-8555"
+    phone = "1-937-303-8257"
     contactNote = "Dev Tools Engineer" #used in QR code only
     profileImage = "img/profile.jpg"
-    email = "rosariorussell@gmail.com"
-    description = "Senior accountant with expertise in financial reporting and tax strategy. Full stack developer using JavaScript and Python on AWS infrastructure."
+    email = "contact@russellrosario.com"
+    description = "Founder of TopCofounder, a startup studio that turns ideas into companies and recruits the best cofounders to run them."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
@@ -32,11 +32,11 @@ title = "Russell Rosario - Accountant & Developer"
 
 [[params.handles]]
     name = "LinkedIn"
-    link = "https://www.linkedin.com/in/rosariorussell/"
+    link = "https://www.linkedin.com/in/russellrosario/"
 
 [[params.handles]]
     name = "GitHub"
-    link = "https://github.com/rosariorussell/"
+    link = "https://github.com/russellrosario/"
 
 [[params.handles]]
     name = "Twitter"
@@ -44,7 +44,7 @@ title = "Russell Rosario - Accountant & Developer"
 
 [[params.handles]]
     name = "AngelList"
-    link = "https://angel.co/rosariorussell"
+    link = "https://angel.co/russellrosario"
 
 [params.google.analytics]
     trackerID = "UA-93956182-1"
