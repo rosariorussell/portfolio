@@ -1,6 +1,6 @@
 ---
 title: "Startup as a Service"
-date: 2019-03-01
+date: 2019-04-01
 featured: true
 description: "An antifragile approach to company building"
 image: "/img/blog/startup_studio.PNG"

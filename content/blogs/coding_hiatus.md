@@ -1,7 +1,7 @@
 ---
 title: "10 month coding hiatus"
 date: 2018-12-01
-featured: true
+featured: false
 description: "My journey from novice to full stack developer."
 image: "/img/blog/matrix.jpg"
 ---
