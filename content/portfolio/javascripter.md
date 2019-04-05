@@ -3,7 +3,7 @@ title: "JavaScripter"
 date: 2018-07-20
 featured: true
 description: "JavaScripter is a compilation of notes during my journey from novice to full stack developer"
-image: "/img/portfolio/js.PNG"
+image: "/img/portfolio/js.png"
 link: "http://www.javascripter.co"
 weight: 200
 
