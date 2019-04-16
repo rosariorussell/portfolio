@@ -1,15 +1,15 @@
 [
     {
+        "role": "Consultant",
+        "company": "TopCofounder",
+        "summary": "Business development and product management for technology startups",
+        "range": "2018 - Present"
+    },
+    {
         "role": "Web Development Teaching Assistant",
         "company": "University of Miami",
         "summary": "Recommended for teaching assistant position after graduating from the bootcamp's previous cohort",
         "range": "2019 - Present"
-    },
-    {
-        "role": "Startup Consultant",
-        "company": "Travelastic, OrderOut, Partsium, Expetitle",
-        "summary": "Product management for several seed stage SaaS startups in the Miami area",
-        "range": "2018 - 2019"
     },
     {
         "role": "Controller",

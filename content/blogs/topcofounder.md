@@ -1,7 +1,7 @@
 ---
 title: "TopCofounder"
-date: 2019-01-01
-featured: true
+date: 2018-09-01
+featured: false
 description: "I am launching a new company called TopCofounder!"
 image: "/img/blog/topcofounder.png"
 ---
