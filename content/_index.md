@@ -9,12 +9,8 @@ outputs:
 - rss
 - json
 ---
-<!-- <p>Senior accountant experienced with financial reporting, accounting systems, budgeting, and forecasting. Full stack web developer using React, Node.js, and cloud infrastructure (AWS & GCP). Open to opportunities that utilize both my business and technical expertise.</p>
-
-<p>I'm currently working on a startup studio.</p> -->
-
 <ul>
-  <li>Founder CEO @ <a href="http://www.topcofounder.com/">TopCofounder</a>, a startup studio that turns ideas into companies and recruits the best cofounders to run them. More details <a href="/blogs/saas/">here</a>.</li>
+  <li>Founder CEO @ <a href="http://www.topcofounder.com/">TopCofounder</a>, a "Startup as a Service" business that helps entrepreneurs successfully launch startups by connecting them with fractional executives. More details <a href="/blogs/saas/">here</a>.</li>
   <li>Senior accountant experienced with financial reporting, accounting systems, budgeting, and forecasting.</li>
   <li>Full stack web developer using React, Node.js, and cloud infrastructure (AWS & GCP).</li>
 </ul>
