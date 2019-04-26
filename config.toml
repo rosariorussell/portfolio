@@ -11,7 +11,7 @@ title = "Russell Rosario - Accountant & Developer"
     contactNote = "Dev Tools Engineer" #used in QR code only
     profileImage = "img/profile.jpg"
     email = "contact@russellrosario.com"
-    description = "Founder CEO @ TopCofounder, a "Startup as a Service" business that helps entrepreneurs successfully launch startups by connecting them with fractional executives."
+    description = "Founder CEO @ TopCofounder, a 'Startup as a Service' business that helps entrepreneurs successfully launch startups by connecting them with fractional executives."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
