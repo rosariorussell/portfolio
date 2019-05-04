@@ -1,8 +1,8 @@
 ---
-title: "Startup as a Service"
+title: "Startup studios"
 date: 2019-03-01
 featured: true
-description: "An antifragile approach to company building"
+description: "An improved approach to the lean startup and company building"
 image: "/img/blog/startup_studio.PNG"
 ---
 
@@ -13,8 +13,6 @@ In Antifragile (my favorite book), Nassim Taleb describes antifragility as the c
 Over the last several months, I conducted extensive research on the topic. I recommend the <a href="https://www.amazon.com/Startup-Studio-Playbook-entrepreneurs-framework-ebook/dp/B07NVNYM4C">Startup Studio Playbook</a> as the go-to resource. I also consulted for a startup studio in Miami and networked with startup studio founders around the world. Now, I am working full-time on TopCofounder.
 
 I started TopCofounder last year as a networking group within Mensa, the high IQ society. Although now a startup studio, I still plan on utilizing this network to recruit executives once TopCofounder produces a startup that gains traction. Here is how I fully describe the entire process:
-
-TopCofounder is a “startup as a service” business.
 
 Our process produces a portfolio of scalable companies using a startup factory model. We create and develop companies from the best ideas we come across. These are usually in the areas of machine learning, big data, internet of things, and software as a service.
 
