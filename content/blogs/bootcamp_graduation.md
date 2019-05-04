@@ -1,6 +1,6 @@
 ---
 title: "I'm a full stack developer!"
-date: 2018-08-01
+date: 2018-07-14
 featured: false
 description: "Goodbye to University of Miami's coding bootcamp 🎓🎉"
 image: "/img/blog/bootcamp.jpeg"
