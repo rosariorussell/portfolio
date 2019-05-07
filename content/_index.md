@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 <ul>
-  <li>Founder CEO @ <a href="http://www.topcofounder.com/">TopCofounder</a>, a "Startup as a Service" business helping entrepreneurs launch startups by connecting them with fractional executives. More details <a href="/blogs/fractional_exec/">here</a>.</li>
+  <li>Owner of <a href="http://www.topcofounder.com/">TopCofounder</a>, providing fractional executive services to develop, market, & scale small businesses and startups. More details <a href="/blogs/fractional_exec/">here</a>.</li>
   <li>Senior accountant experienced with financial reporting, accounting systems, budgeting, and forecasting.</li>
   <li>Full stack web developer using React, Node.js, and cloud infrastructure (AWS & GCP).</li>
 </ul>
