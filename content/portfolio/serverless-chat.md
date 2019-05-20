@@ -1,10 +1,10 @@
 ---
 title: "Serverless Chat"
 date: 2016-11-08
-featured: flase
+featured: false
 description: "Serverless chat app using AWS Lambda and API Gateway"
 image: "/img/portfolio/serverless-chat.png"
-link: "http://serverless-chat-app.s3-website-us-east-1.amazonaws.com/"
+link: "http://chat.russellrosario.com/"
 code: "https://github.com/russellrosario/serverless-chat-app"
 weight: 500
 
