@@ -1,7 +1,7 @@
 ---
 title: "Teaching at the U"
 date: 2019-02-01
-featured: true
+featured: false
 description: "I start a new position as a teaching assistant at University of Miami's coding bootcamp."
 image: "/img/blog/bootcamp_ta.jpg"
 ---
