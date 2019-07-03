@@ -19,4 +19,6 @@ The average investment into each startup studio's portfolio company is between $
 
 I'm primarily focused on the industries of machine learning, internet of things, and software as a service. My current project is 500 Sense, which performs real-time sentiment analysis on publicly available information for all S&P 500 companies. Using a scalable & serverless approach, I can easily replicate the infrastructure to perform sentiment analysis on a wide variety of products.
 
-My pitch for TopCofounder can be seen <a href="http://pitch.topcofounder.com">here</a>. If you have any interest, I'd love to discuss further. And if you have any ideas on how to improve the startup studio model, I'd love to hear them as well!
+My pitch for TopCofounder can be seen below. If you have any interest, I'd love to discuss further. And if you have any ideas on how to improve the startup studio model, I'd love to hear them as well!
+
+<iframe width="100%" height="315px" src="https://www.youtube.com/embed/-uUSp7ipFSk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
