@@ -17,7 +17,7 @@ The average investment into each startup studio's portfolio company is between $
 5. <b>Agile AND Serverless</b> - Incremental development is a given for startups without much early traction. But development should focus on serverless solutions to solve problems. Infrastructure costs for early stage startups should be minimal to non-existent.
 6. <b>Racer studio model</b> - This is the "copycat" strategy employed by Rocket Internet and other studios. They seek to emulate successful startups from different geographies. These studios are extremely lean because they don’t require as much innovative research. Emulation is much faster and cost effective.
 
-I'm primarily focused on the industries of machine learning, internet of things, and software as a service. My current project is 500 Sense, which performs real-time sentiment analysis on publicly available information for all S&P 500 companies. Using a scalable & serverless approach, I can easily replicate the infrastructure to perform sentiment analysis on a wide variety of products.
+I'm primarily focused on the application of technology in machine learning, internet of things, and software as a service. My current project is 500 Sense, which performs real-time sentiment analysis on publicly available information for all S&P 500 companies. Using a scalable & serverless approach, I can easily replicate the infrastructure to perform sentiment analysis on a wide variety of products.
 
 My pitch for TopCofounder can be seen below. If you have any interest, I'd love to discuss further. And if you have any ideas on how to improve the startup studio model, I'd love to hear them as well!
 
