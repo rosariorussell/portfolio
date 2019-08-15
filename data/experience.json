@@ -1,15 +1,9 @@
 [
     {
-        "role": "Consultant",
+        "role": "Owner",
         "company": "TopCofounder",
-        "summary": "Business development and product management for technology startups",
+        "summary": "Consult with early stage startups and provide fractional executive services in development, marketing, and finance",
         "range": "2018 - Present"
-    },
-    {
-        "role": "Coding Bootcamp Instructor",
-        "company": "University of Miami",
-        "summary": "Support and guide students learning the meta-skills and core concepts of software engineering",
-        "range": "2019 - Present"
     },
     {
         "role": "Controller",
@@ -19,8 +13,7 @@
     },
     {
         "role": "Consultant",
-        "company": "Independent Contractor",
-        "summary": "Bookkeeping, web design, and SEO",
+        "summary": "Bookkeeping, web design, and digital marketing",
         "range": "2010 - 2015"
     },
     {

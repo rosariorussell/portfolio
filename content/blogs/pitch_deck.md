@@ -1,7 +1,7 @@
 ---
 title: "TopCofounder Pitch"
 date: 2019-05-21
-featured: true
+featured: false
 description: "I've been pitching TopCofounder to potential investors"
 image: "/img/blog/pitch_deck.png"
 ---
