@@ -1,5 +1,5 @@
 ---
-title: "A scientific study on job applications"
+title: "Applying to over 800 positions"
 date: 2019-08-15
 featured: true
 description: "The results of my month long job application process"

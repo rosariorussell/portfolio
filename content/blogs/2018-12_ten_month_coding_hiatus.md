@@ -1,5 +1,5 @@
 ---
-title: "10 month coding hiatus"
+title: "Ten month coding hiatus"
 date: 2018-12-01
 featured: false
 description: "My journey from novice to full stack developer."

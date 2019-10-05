@@ -1,5 +1,5 @@
 ---
-title: "Mensa"
+title: "Mensa Annual Gathering"
 date: 2018-08-01
 featured: false
 description: "My involvement and experience with Mensa, the High IQ society"

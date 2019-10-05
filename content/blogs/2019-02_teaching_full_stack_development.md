@@ -1,5 +1,5 @@
 ---
-title: "Teaching at the U"
+title: "Teaching Full Stack Development"
 date: 2019-02-01
 featured: false
 description: "I start a new position as a teaching assistant at University of Miami's coding bootcamp."

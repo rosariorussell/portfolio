@@ -1,7 +1,7 @@
 ---
 title: "Learning Google Cloud"
 date: 2019-06-26
-featured: true
+featured: false
 description: "Google cloud is so much better than AWS!"
 image: "/img/blog/gcp.jpg"
 ---

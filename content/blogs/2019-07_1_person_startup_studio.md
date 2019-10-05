@@ -1,7 +1,7 @@
 ---
 title: "The 1 person startup studio"
 date: 2019-07-03
-featured: true
+featured: false
 description: "Reducing the initial capital requirement for startups from $250k-$500k to under $100k"
 image: "/img/blog/topcofounder.png"
 ---
