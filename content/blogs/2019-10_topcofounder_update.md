@@ -1,8 +1,8 @@
 ---
-title: "TopCofounder"
+title: "TopCofounder Update"
 date: 2019-10-01
 featured: true
-description: "An update on TopCofounder"
+description: "Improving TopCofounder's pitch to investors"
 image: "/img/blog/topcofounder.png"
 ---
 
