@@ -6,7 +6,7 @@ description: "TopCofounder's pitch to partners"
 image: "/img/blog/topcofounder.png"
 ---
 
-My company, TopCofounder, is developing a business model to help angel investors and innovation labs launch startups quickly with minimal capital requirements.
+My company, TopCofounder, is developing a business model to help angel investors build startups quickly while minimizing capital requirements.
 
 We compete in the growing startup studio market, which has doubled every 4 years. A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential.
 
@@ -32,6 +32,6 @@ Within each phase of an early startup’s lifecycle, TopCofounder’s business m
 - Pricing - A long trial period or deeply discounted price for beta users until enough data is collected to garner investor interest
 - Post-seed - After raising one year of runway, TopCofounder recruits someone from Mensa, the high IQ society to take over operations.
 
-I am looking to form a joint venture with angel investors or corporations looking to build innovation labs. For this venture, I am seeking one year of runway for 50% equity to build a prototype, acquire initial customers, and raise additional seed funding.
+I am looking to form a 50/50 joint venture with interested angel investors. In exchange for one year of operational expenses, I will build a prototype, acquire initial customers, and raise an additional round of funding.
 
-My name is Russell Rosario and I’m an accountant and software engineer. After a year of consulting with several startups and formulating best practices, I launched TopCofounder as a startup studio in 2019. As of October 2019, I am currently working on 3 startups.
+My name is Russell Rosario and I’m an accountant and software engineer. After a year of consulting with several startups and formulating best practices, I launched TopCofounder as a startup studio in 2019. As of October 2019, I am currently working on 3 startup ideas.
