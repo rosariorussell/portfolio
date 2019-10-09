@@ -22,12 +22,6 @@
       </li>
       {{ end }}
 
-      {{ if .Site.Params.showPortfolio }}
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
-      </li>
-      {{ end }}
-
       {{ if .Site.Params.showExperience }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#experience">Experience</a>
@@ -40,15 +34,21 @@
       </li>
       {{ end }}
 
-      <li class="nav-item">
-        <a class="nav-link js-scroll-trigger" href="http://resume.russellrosario.com" target="_blank">Resume</a>
-      </li>
-
       {{ if .Site.Params.showBlogs }}
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="/#blogs">Blog</a>
       </li>
       {{ end }}
+
+      {{ if .Site.Params.showPortfolio }}
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="/#portfolio">Portfolio</a>
+      </li>
+      {{ end }}
+
+      <li class="nav-item">
+        <a class="nav-link js-scroll-trigger" href="http://resume.russellrosario.com" target="_blank">Resume</a>
+      </li>
 
       <li class="nav-item">
         <a class="nav-link js-scroll-trigger" href="mailto:rosariorussell@gmail.com" target="_blank">Email Me</a>

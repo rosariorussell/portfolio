@@ -2,14 +2,14 @@
 title: "JavaScripter"
 date: 2018-07-20
 featured: true
-description: "JavaScripter is a compilation of notes during my journey from novice to full stack developer"
-image: "/img/portfolio/js.png"
+description: "My collection of software engineering notes published for the benefit of my students at University of Miami's coding bootcamp. It has over 140 stars on Github!"
+image: "/img/portfolio/js.PNG"
 link: "http://www.javascripter.org"
 weight: 200
 
 ---
 
-JavaScripter is a compilation of notes during my journey from novice to full stack developer.
+<b>My collection of software engineering notes published for the benefit of my students at University of Miami's coding bootcamp. It has over 140 stars on Github!</b>
 
 - Computer Science Basics
 - Languages (JavaScript & Python)
@@ -18,4 +18,4 @@ JavaScripter is a compilation of notes during my journey from novice to full sta
 - DevOps
 - Latest technologies
 
-<b>This project was initially for my own benefit until one day it started trending on Github! It now has over 115 stars!</b>
+

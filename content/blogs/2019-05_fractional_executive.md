@@ -1,6 +1,6 @@
 ---
 title: "Fractional Executive"
-date: 2019-04-01
+date: 2019-05-01
 featured: false
 description: "TopCofounder - Startup as a Service with fractional CEOs"
 image: "/img/blog/fractional_exec.jpg"

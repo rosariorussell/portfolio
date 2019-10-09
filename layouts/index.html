@@ -5,13 +5,6 @@
         {{ partial "portfolio/skills.html" . }}
     {{ end }}
 
-    {{ if .Site.Params.showPortfolio }}
-        {{ with .Site.GetPage "section" "portfolio" }}
-            {{ .Scratch.Add "sectionId" "portfolio" }}
-            {{ partial "sectionSummary" . }}
-        {{ end }}
-    {{ end }}
-
     {{ if .Site.Params.showExperience }}
         {{ partial "portfolio/experience.html" . }}
     {{ end }}
@@ -26,4 +19,11 @@
             {{ partial "sectionSummary" . }}
         {{ end }}
     {{ end }}
+
+    {{ if .Site.Params.showPortfolio }}
+    {{ with .Site.GetPage "section" "portfolio" }}
+        {{ .Scratch.Add "sectionId" "portfolio" }}
+        {{ partial "sectionSummary" . }}
+    {{ end }}
+{{ end }}
 {{ end }}

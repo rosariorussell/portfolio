@@ -1,6 +1,6 @@
 ---
 title: "Startup studios"
-date: 2019-03-01
+date: 2019-04-01
 featured: false
 description: "An improved approach to the lean startup and company building"
 image: "/img/blog/startup_studio.PNG"

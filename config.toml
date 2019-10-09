@@ -15,14 +15,14 @@ title = "Russell Rosario - Accountant & Developer"
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
-    showSkills = true
+    showSkills = false
     showProjects = false
     showOpenSource = false
     showPublications = false
     showBlogs = true
     showPortfolio = true
-    showExperience = true
-    showEducation = true
+    showExperience = false
+    showEducation = false
 
 		showQr = false
 

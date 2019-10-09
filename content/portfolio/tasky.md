@@ -1,7 +1,7 @@
 ---
 title: "Tasky"
 date: 2018-11-25
-featured: true
+featured: false
 description: "A productivity app focused on helping you get stuff done"
 image: "/img/portfolio/tasky.png"
 link: "http://tasky.russellrosario.com"
