@@ -14,7 +14,7 @@ Unique skill set combining business and technology. Senior accountant currently 
 </p>
 
 <p>
-Currently working on <a href="http://www.topcofounder.com/">TopCofounder</a>, where I'm developing a business model to help angel investors and innovation labs launch startups quickly with minimal capital requirements. More details <a href="/blogs/2019-10_topcofounder_pitch/">here</a>.
+Currently working on <a href="http://www.topcofounder.com/">TopCofounder</a>, where I'm developing a business model to help angel investors build startups quickly while minimizing capital requirements. More details <a href="/blogs/2019-10_topcofounder_pitch/">here</a>.
 </p>
 
 <br/>
