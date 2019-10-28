@@ -14,8 +14,8 @@ Within each phase of an early startup’s lifecycle, TopCofounder’s business m
 
 <b>Ideation phase</b>
 
-- Racer strategy - Duplicate already proven business plans in other parts of the country or world. Or apply a proven business plan to a new industry. This allows the startup to focus less on innovation and more on execution. 
-- B2B - Higher revenue per transaction means fewer initial customers before breakeven. Additional revenue options depending on customizing solutions. Higher end for larger corporates.
+- Racer strategy - Duplicate already proven business plans in other parts of the country or world. Or apply a proven business plan to a new industry. This allows the startup to focus less on innovation and more on execution in the earliest part of the startups lifecycle. 
+- B2B - Higher revenue per transaction means fewer initial customers before breakeven. There are also opportunities for additional revenue for niche customer solutions. With larger corporates, a higher priced tier can be offered.
 
 <b>Validation phase</b>
 
