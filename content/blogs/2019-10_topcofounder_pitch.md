@@ -19,19 +19,17 @@ Within each phase of an early startup’s lifecycle, TopCofounder’s business m
 
 <b>Validation phase</b>
 
-- Inbound marketing - Material to get the conversation started and pique interest in partners. Marketing automation - Use of bots, scrapers, and other technology to automate lead generation
-- 1 paying customer - Top priority, discounted pricing
+- Inbound marketing - Produce material to get the conversation started and pique interest in partners. Make use of bots, scrapers, and other technology to automate lead generation.
+- Term sheet - At least one term sheet or letter of intent prior to moving on to the build phase. This customer will have top priority over any other future customers and discounted pricing.
 
 <b>Build phase</b>
 
 - Minimal initial capital - <$10k/month to build prototype. Serverless approach to software engineering that allows resources to automatically scale up or down. This enables a small team to build infrastructure that scales to millions of people and also costs $0 if no one is using it.
-- Iterative builds - 1 month cycle
+- Scrum - build phases which last up to 1 month each. At the end of each phase, a new version of the prototype will be released. New versions will continue to be released until product-market fit has been achieved.
 
 <b>Scale phase</b>
 
-- Analytics - Develop KPIs that investors are interested in.
+- Analytics - Begin developing, measuring, and tracking KPIs that investors are interested in.
 - Recruiting - Upon raising additional funding, TopCofounder recruits someone from Mensa, the high IQ society to take over operations.
 
-I am looking to form a 50/50 joint venture with interested angel investors. In exchange for one year of operational expenses, I will build a prototype, acquire initial customers, and raise an additional round of funding.
-
-My name is Russell Rosario and I’m an accountant and software engineer. After a year of consulting with several startups and formulating best practices, I launched TopCofounder as a startup studio in 2019. As of October 2019, I am currently working on 3 startup ideas.
+I am looking to form a 50/50 joint venture with interested angel investors. In exchange for one year of operational expenses (less than $10k/month), I will build a prototype, acquire initial customers, and raise an additional round of funding. As an accountant and software engineer, I've worked on several early stage startups and had first-hand experience with common obstacles faced by these ventures. I began to analyze ways to reduce risk while maximizing success and I launched TopCofounder as a startup studio in 2019 to solve these problems. As of October 2019, TopCofounder is currently working on 3 startups.
