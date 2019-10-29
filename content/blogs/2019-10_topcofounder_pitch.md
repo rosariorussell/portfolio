@@ -6,11 +6,11 @@ description: "TopCofounder's pitch to partners"
 image: "/img/blog/topcofounder.png"
 ---
 
-My company, TopCofounder, is developing a business model to help angel investors build startups quickly while minimizing capital requirements.
+My company, TopCofounder, is a startup studio helping angel investors validate business ideas quickly with minimal capital requirements. We do this by building prototypes, automating digital marketing, and raising additional seed funding. 
 
-We compete in the growing startup studio market, which has doubled every 4 years. A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential.
+A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential. This market is doubling every 4 years.
 
-Within each phase of an early startup’s lifecycle, TopCofounder’s business model takes several strategic approaches which differentiate us from the rest of the competition. 
+Within this business model, TopCofounder takes several unique strategic approaches for each phase of a startup's lifecycle. 
 
 <b>Ideation phase</b>
 
