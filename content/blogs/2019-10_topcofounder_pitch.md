@@ -6,30 +6,32 @@ description: "TopCofounder's pitch to partners"
 image: "/img/blog/topcofounder.png"
 ---
 
-My company, TopCofounder, is developing a business model to help angel investors build startups quickly while minimizing capital requirements.
+My company, TopCofounder, is a startup studio helping angel investors validate business ideas quickly with minimal capital requirements. We do this by building prototypes, automating digital marketing, and raising additional seed funding.
 
-We compete in the growing startup studio market, which has doubled every 4 years. A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential.
+A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential. This market is doubling every 4 years.
 
-Within each phase of an early startup’s lifecycle, TopCofounder’s business model takes several strategic approaches which differentiate us from the rest of the competition. 
+Within this business model, TopCofounder takes several unique strategic approaches for each phase of a startup's lifecycle.
 
 <b>Ideation phase</b>
 
-- Racer strategy - Duplicate already proven business plans in other parts of the country or world. Or apply a proven business plan to a new industry. This allows the startup to focus less on innovation and more on execution in the earliest part of the startups lifecycle. 
-- B2B - Higher revenue per transaction means fewer initial customers before breakeven. There are also opportunities for additional revenue for niche customer solutions. With larger corporates, a higher priced tier can be offered.
+- Racer strategy - Duplicate already proven business plans in other parts of the country or world. Or apply a proven business plan to a new industry. This allows the startup to focus less on innovation and more on execution in the earliest part of the startup’s lifecycle.
+- B2B - Focus on business process automation (technology-enabled automation of complex business processes) and software as a service to leverage technology in underrepresented niches. Higher revenue per transaction as well as additional opportunities for enterprise solutions.
 
 <b>Validation phase</b>
 
-- Inbound marketing - Produce material to get the conversation started and pique interest in partners. Make use of bots, scrapers, and other technology to automate lead generation.
-- Term sheet - At least one term sheet or letter of intent prior to moving on to the build phase. This customer will have top priority over any other future customers and discounted pricing.
+- Low budget ad campaigns - With a budget of under $1000, invent a brand, create a landing page to collect emails, and send surveys to gauge interest for interested parties. Survey questions would ask - Would you use this product? How much would you pay? What factors would lead you to switch from your current behavior?
+- Convert prospects - Have at least one letter of intent before moving on to the build phase.
 
 <b>Build phase</b>
 
-- Minimal initial capital - <$10k/month to build prototype. Serverless approach to software engineering that allows resources to automatically scale up or down. This enables a small team to build infrastructure that scales to millions of people and also costs $0 if no one is using it.
-- Scrum - build phases which last up to 1 month each. At the end of each phase, a new version of the prototype will be released. New versions will continue to be released until product-market fit has been achieved.
+- Scrum - Build phases last up to 1 month each. At the end of each phase, a new version of the prototype will be released. New versions will continue to be released until product-market fit has been achieved.
+- Reproducible & Serverless - A serverless approach to software engineering allows resources to automatically scale without any code changes. A small team is able to build infrastructure scalable to millions that costs $0 if no one uses it. Because the code is owned by the startup studio, it can be reused as a template for future projects. This further decreases the initial capital required to get a technology startup off the ground.
 
 <b>Scale phase</b>
 
-- Analytics - Begin developing, measuring, and tracking KPIs that investors are interested in.
+- Inbound marketing - Produce content to pique interest in potential investors. Make use of bots, scrapers, and other technology to automate lead generation.
 - Recruiting - Upon raising additional funding, TopCofounder recruits someone from Mensa, the high IQ society to take over operations.
 
-I am looking to form a 50/50 joint venture with interested angel investors. In exchange for one year of operational expenses (less than $10k/month), I will build a prototype, acquire initial customers, and raise an additional round of funding. As an accountant and software engineer, I've worked on several early stage startups and had first-hand experience with common obstacles faced by these ventures. I began to analyze ways to reduce risk while maximizing success and I launched TopCofounder as a startup studio in 2019 to solve these problems. As of October 2019, TopCofounder is currently working on 3 startups.
+I am looking to form a joint venture with interested angel investors sharing somewhere between 30 to 50 percent equity. TopCofounder will build a prototype, acquire initial customers, and raise an additional round of funding starting at $10000 dollars per month.
+
+As an accountant and software engineer, I've worked on several early stage startups and had first-hand experience with common obstacles faced by these ventures. I began to analyze ways to reduce risk while maximizing success and I launched TopCofounder as a startup studio in 2019 to solve these problems. As of now, TopCofounder is currently working on 3 startups.
