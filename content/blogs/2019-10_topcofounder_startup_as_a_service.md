@@ -1,16 +1,16 @@
 ---
-title: "TopCofounder Pitch"
+title: "TopCofounder - Startup as a Service"
 date: 2019-10-01
 featured: true
-description: "TopCofounder's pitch to partners"
+description: "A new approach to launching startups"
 image: "/img/blog/topcofounder.png"
 ---
 
-My company, TopCofounder, is a startup studio helping angel investors validate business ideas quickly with minimal capital requirements. We do this by building prototypes, automating digital marketing, and raising additional seed funding.
+As an accountant and software engineer, I've had the opportunity to work with several startups in different capacities. After experiencing many failed ventures, I decided to work on a business model that reduces the risk of failure while maintaining a high possibility of success. My company is the culmination of over a year of research on that topic. 
 
-A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential. This market is doubling every 4 years.
+TopCofounder's mission is to help angel investors validate business ideas and launch startups quickly with minimal initial capital requirements. Our unique "Startup as a Service" option for investors drastically reduces their initial capital requirements. By offering equity on a monthly subscription basis, overall risk is reduced without compromising on future returns.
 
-Within this business model, TopCofounder takes several unique strategic approaches for each phase of a startup's lifecycle.
+TopCofounder utilizes a startup studio model optimized for testing initial hypotheses, building prototypes, and automating digital marketing. Once the business reaches product-market fit, we scale operations and begin fundraising. A startup studio is a portfolio company that launches multiple startups simultaneously. The benefits of this approach include economies of scale as well as the ability to divert resources away from failing startups towards the ones that show more potential. Within this business model, TopCofounder takes several unique strategic approaches for each phase of a startup’s lifecycle.
 
 <b>Ideation phase</b>
 
@@ -31,7 +31,3 @@ Within this business model, TopCofounder takes several unique strategic approach
 
 - Inbound marketing - Produce content to pique interest in potential investors. Make use of bots, scrapers, and other technology to automate lead generation.
 - Recruiting - Upon raising additional funding, TopCofounder recruits someone from Mensa, the high IQ society to take over operations.
-
-I am looking to form a joint venture with interested angel investors sharing somewhere between 30 to 50 percent equity. TopCofounder will build a prototype, acquire initial customers, and raise an additional round of funding starting at $10000 dollars per month.
-
-As an accountant and software engineer, I've worked on several early stage startups and had first-hand experience with common obstacles faced by these ventures. I began to analyze ways to reduce risk while maximizing success and I launched TopCofounder as a startup studio in 2019 to solve these problems. As of now, TopCofounder is currently working on 3 startups.
