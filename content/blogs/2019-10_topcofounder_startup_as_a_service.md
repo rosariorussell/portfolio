@@ -6,9 +6,9 @@ description: "A new approach to launching startups"
 image: "/img/blog/topcofounder-process.jpg"
 ---
 
-My company, TopCofounder, helps angel investors validate business ideas and launch startups quickly with minimal initial capital requirements. Introducing a new and unique "Startup as a Service" that offers equity on a monthly subscription basis, reducing overall risk without compromising on returns. Launch a startup for as little as $10k per month with no commitment.
+My company, TopCofounder, helps angel investors validate business ideas and launch startups quickly with minimal initial capital requirements. Introducing a new and unique "Startup as a Service" model that offers equity on a monthly subscription basis, reducing overall risk without compromising on returns. Launch a startup for as little as $10k per month with no commitment.
 
-TopCofounder utilizes a startup studio model optimized for testing initial hypotheses, building prototypes, and automating digital marketing. Using a combination of in-house resources and external agencies, we support anything from simple mobile applications to complex platform solutions. Our collection of entrepreneurs consists of over 100 members from Mensa, the high IQ society.
+TopCofounder utilizes a <a href="https://en.wikipedia.org/wiki/Startup_studio">startup studio business model</a> optimized for testing initial hypotheses, building prototypes, and automating digital marketing. Using a combination of in-house resources and external agencies, we support anything from simple mobile applications to complex platform solutions. Our collection of entrepreneurs consists of over 100 members from Mensa, the high IQ society. See the group <a href="https://www.linkedin.com/groups/8685605/">here</a>.
 
 
 <b>Process</b>
