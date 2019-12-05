@@ -1,7 +1,7 @@
 ---
 title: "Applying to over 800 positions"
 date: 2019-08-15
-featured: true
+featured: false
 description: "The results of my month long job application process"
 image: "/img/blog/job_applications.jpg"
 ---
