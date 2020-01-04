@@ -1,7 +1,7 @@
 ---
 title: "Working towards CPA license"
 date: 2019-09-01
-featured: true
+featured: false
 description: "Going back to school and studying for the CPA exam"
 image: "/img/blog/accounting.png"
 ---
