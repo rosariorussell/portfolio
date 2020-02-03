@@ -1,7 +1,7 @@
 ---
 title: "TopCofounder - Startup as a Service"
 date: 2019-10-01
-featured: true
+featured: false
 description: "A new approach to launching startups"
 image: "/img/blog/topcofounder-process.jpg"
 ---
