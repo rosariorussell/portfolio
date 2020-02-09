@@ -14,7 +14,7 @@ Versatile problem solver specializing in automating operations and accounting sy
 </p>
 
 <p>
-Currently working on <a href="http://www.topcofounder.com/">TopCofounder</a>, which is a unique “Startup as a Service” model that offers equity for startups on a monthly subscription basis. More details <a href="/blogs/2019-10_topcofounder_startup_as_a_service/">here</a>.
+Building <a href="http://www.topcofounder.com/">TopCofounder</a>, a unique “Startup as a Service” model that offers equity for startups on a monthly subscription basis. More details <a href="/blogs/2019-10_topcofounder_startup_as_a_service/">here</a>.
 </p>
 
 <br/>
