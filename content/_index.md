@@ -10,7 +10,7 @@ outputs:
 - json
 ---
 <p>
-My expertise is in automating operations and accounting systems. After realizing the accounting profession could be automated, I transitioned to software engineering. Over 2 years of experience as a full stack developer with <a href="http://bit.ly/rrcerts">over 30 certifications</a>. Expected date of CPA licensure: August 2020. 
+Versatile problem solver specializing in automating operations and accounting systems. A full stack developer with <a href="http://bit.ly/rrcerts">over 30 certifications</a>. Currently working towards CPA licensure (expected by August 2020).
 </p>
 
 <p>
