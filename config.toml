@@ -51,3 +51,6 @@ title = "Russell Rosario - Accountant & Developer"
 
 [outputs] #only required for search
     home = ["HTML", "JSON"]
+
+[markup.goldmark.renderer]
+    unsafe = true
