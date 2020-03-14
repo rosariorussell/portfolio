@@ -1,7 +1,7 @@
 ---
 title: "Medico Solutions"
 date: 2019-11-30
-featured: true
+featured: false
 description: "I cofounded a new company"
 image: "/img/blog/medico.png"
 ---

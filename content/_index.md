@@ -10,7 +10,8 @@ outputs:
 - json
 ---
 <p>
-Versatile problem solver specializing in automating operations and accounting systems. A full stack developer with <a href="http://bit.ly/rrcerts">over 30 certifications</a>. Currently working towards CPA licensure (expected by August 2020).
+Senior accountant with advanced technology-based skill set. Expertise in optimizing accounting systems and
+automating operations. CPA candidate expecting licensure ~ August 2020. Full stack developer with <a href="http://bit.ly/rrcerts">over 30 certifications</a>.
 </p>
 
 <p>
