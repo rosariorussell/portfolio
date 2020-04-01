@@ -1,7 +1,7 @@
 ---
 title: "Fasting, zero carb, & one meal a day"
 date: 2019-12-31
-featured: true
+featured: false
 description: "Trying out my own protocol for optimal health"
 image: "/img/blog/fasting.png"
 ---
