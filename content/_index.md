@@ -15,7 +15,7 @@ automating operations. CPA candidate expecting licensure ~ August 2020. Full sta
 </p>
 
 <p>
-Building <a href="http://www.topcofounder.com/">TopCofounder</a>, a unique “Startup as a Service” model that offers equity for startups on a monthly subscription basis. More details <a href="/blogs/2019-10_topcofounder_startup_as_a_service/">here</a>.
+Owner of <a href="http://www.topcofounder.com/">TopCofounder</a>, a virtual CFO service. In addition to full service accounting, we partnered with marketing and dev shops to offer a unique “Startup as a Service” model to angel investors. We offer equity in the startups we build on a monthly subscription basis. More details <a href="/blogs/2019-10_topcofounder_startup_as_a_service/">here</a>.
 </p>
 
 <br/>
