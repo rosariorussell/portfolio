@@ -1,7 +1,7 @@
 ---
 title: "Studying for CPA exam"
 date: 2020-01-31
-featured: true
+featured: false
 description: "Application to sit for CPA exam has been approved and now full speed ahead!"
 image: "/img/blog/cpa_exam.png"
 ---
