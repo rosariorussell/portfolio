@@ -14,12 +14,17 @@ WIV discovered the bat which served as a reservoir ancestor to the 2003 SARS vir
 
 Many of the coronavirus genomes collected by WIV in 2013 were released at that time. The RaTG13 genome was released in January 2020. WIV hosts animals for further research and experimentation in the Wuhan CDC which is less than 300 meters from the Wuhan market (identified as the source of the pandemic). Concerns about their safety measures have been expressed since 2017.</strong>
 
+<br>
+
+<hr>
+<br>
+
+It is hard to ignore the coincidence that COVID-19 emerged right next to one of the world's largest virology labs. As opposed to the typical conspiracy theorist, I wanted to take a scientific approach backed by credible sources. Ironically, I had done statistical research in 2008 at University of Miami to assess the mutability of HIV. So reading the papers on the COVID-19 genome was quite the nostalgic activity. As I continued down the rabbit hole, I felt as though I was getting closer and closer to what I was searching for.
 
 <br>
 
 
-<i>My in-depth research with sources</i>
-
+<strong>My in-depth research with sources</strong>
 
 1.	The Wuhan CDC is less than 300 meters from the Wuhan seafood market and the Wuhan Institute of Virology (WIV) is 12 kilometers away. The earliest date for first symptoms was reported on December 1 in a person who did not have any exposure to the market. 13 of the initial 41 people found with the novel coronavirus had no link with the market. In a later report, 50 of the initial 99 patients found no exposure to the market.
     - https://www.thelancet.com/action/showPdf?pii=S0140-6736%2820%2930183-5
