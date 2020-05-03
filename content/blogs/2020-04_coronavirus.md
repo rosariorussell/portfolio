@@ -10,7 +10,7 @@ image: "/img/blog/coronavirus.jpg"
 
 <strong>The ancestor to COVID-19 was discovered in 2013 by Wuhan Institute of Virology (WIV) called RaTG13 (96% similarity to COVID-19). Recombination within a pangolin only gets to ~99% similarity. The final 1% is the missing "furin cleavage site", which is the "gain-of-function research" that WIV has been doing for years. In fact, WIV successfully conducted research in 2015 to create a furin site in MERS. 
 
-WIV discovered the bat which served as a reservoir ancestor to the 2003 SARS virus (Rs3367). It too had 96% similarity to SARS. Research in 2008 revealed that the virus had to recombine in a civet before achieving 99.8% similarity to SARS.
+WIV discovered the bat which served as a reservoir/ancestor to the 2003 SARS virus (Rs3367). It too had 96% similarity to SARS. Research in 2008 revealed that the virus had to recombine in a civet before achieving 99.8% similarity to SARS.
 
 Many of the coronavirus genomes collected by WIV in 2013 were released at that time. The RaTG13 genome was released in January 2020. WIV hosts animals for further research and experimentation in the Wuhan CDC which is less than 300 meters from the Wuhan market (identified as the source of the pandemic). Concerns about their safety measures have been expressed since 2017.</strong>
 
