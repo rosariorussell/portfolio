@@ -11,7 +11,7 @@ outputs:
 ---
 <p>
 Senior accountant with advanced technology-based skill set. Expertise in optimizing accounting systems and
-automating operations. CPA candidate expecting licensure ~ August 2020. Full stack developer with <a href="http://bit.ly/rrcerts">over 30 certifications</a>.
+automating operations. CPA candidate expecting licensure ~ August 2020. Full stack developer with <a href="https://link.russellrosario.com/certificates">over 30 certifications</a>.
 </p>
 
 <p>
