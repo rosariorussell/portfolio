@@ -43,8 +43,8 @@ title = "Russell Rosario - Accountant & Developer"
     link = "https://twitter.com/russellrosario"
 
 [[params.handles]]
-    name = "AngelList"
-    link = "https://angel.co/russellrosario"
+    name = "Instagram"
+    link = "https://www.instagram.com/russellrosario/"
 
 [params.google.analytics]
     trackerID = "UA-93956182-1"
