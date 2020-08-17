@@ -15,7 +15,7 @@ automating operations. CPA candidate expecting licensure ~ December 2020. Full s
 </p>
 
 <p>
-<strong>Fractional executive for startups</strong> - Outsourced CEO, COO, and CFO services available <a href="http://www.topcofounder.com/">@TopCofounder</a>.
+<strong>Fractional CTO/CFO for tech startups</strong> <a href="http://www.topcofounder.com/">@TopCofounder</a>.
 </p>
 
 <br/>

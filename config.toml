@@ -1,7 +1,7 @@
 theme = "hugo-resume"
 baseURL = "https://www.russellrosario.com/"
 languageCode = "en-us"
-title = "Russell Rosario - Accountant & Developer"
+title = "Russell Rosario - Software Engineer & Accountant"
 
 [params]
     firstName = "Russell"
@@ -11,7 +11,7 @@ title = "Russell Rosario - Accountant & Developer"
     contactNote = "Dev Tools Engineer" #used in QR code only
     profileImage = "img/profile.jpg"
     email = "rosariorussell@gmail.com"
-    description = "Accountant & Software Engineer"
+    description = "The portfolio, blog, and website of Russell Rosario."
     favicon = "images/favicon.ico"
 
     # what sections to display.  Setting to false disables navigation and section.
